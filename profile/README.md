@@ -26,7 +26,9 @@
 <br>
 
 ## ⚒️ 사용한 기술 스택
+**프론트엔드**<br>
+<img src="https://user-images.githubusercontent.com/112946860/229291798-3d7b9ef3-ea5c-4bd3-9942-4d1041698b10.png" width="50%"/>
 
 <br>
 
-## 👨‍👩‍👧‍👦 팀원 소개 및 역할
+## 👨‍👩‍👧‍👦 팀 
