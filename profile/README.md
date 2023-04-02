@@ -40,6 +40,10 @@
 **인프라**<br>
 <img src="https://user-images.githubusercontent.com/112946860/229330201-fa060418-528d-4499-b173-9aa60d56130d.png" width="13%"/>
 
+<br>
+
+## 🏘️ 인프라 구조
+<img src="https://user-images.githubusercontent.com/112946860/229331337-19fd3e62-3aab-4747-9f37-70a012086395.png" />
 
 <br>
 
